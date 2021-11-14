@@ -4,7 +4,7 @@
 * It utilizes the `DataGenerator` class described in https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 
 
-To do on-the-fly augmentation, set the `do_augmentation` to true. </br>
+A sample run is demonstrated in `test_run.ipynb`. To do on-the-fly augmentation, set the `do_augmentation` to true. </br>
 Currently, it performs two augmentations - flip and rotation. </br>
 ##### Example of how to use rotation:</br>
 'rotate_angle': random.sample(range(-15, 15), 3) </br>
