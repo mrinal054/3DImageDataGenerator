@@ -21,5 +21,5 @@ Flipped image </br>
 rotated image </br>
 ![Sc 1](3.jpg)
 
-#### References
+#### Reference
 https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
