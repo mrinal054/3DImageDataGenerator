@@ -1,6 +1,7 @@
 ## On-the-fly 3D augmentation for keras fit_generator
 * keras `ImageDataGenerator` class works for 2D augmentation. 
 * This code performs runtime (on-the-fly) 3D augmentation. 
+* It can be incorporated with the keras `fit_generator` to do 3D on-the-fly augmentation. 
 * It utilizes the `DataGenerator` class described in https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
 
 
