@@ -15,11 +15,11 @@ To flip a data, the user needs to define the `flip_axis` parameter. It could be 
 
 #### Screenshots
 Original image </br>
-![Sc 1](1.jpg)
+![Sc 1](1.jpg) </br>
 Flipped image </br>
-![Sc 1](2.jpg)
+![Sc 1](2.jpg) </br>
 rotated image </br>
-![Sc 1](3.jpg)
+![Sc 1](3.jpg) </br>
 
 #### Reference
 https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
