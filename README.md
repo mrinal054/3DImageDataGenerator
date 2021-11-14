@@ -13,13 +13,13 @@ It will create 3 random rotation angles within the given range. Thus, the size o
 ##### Example of how to use flip:</br>
 To flip a data, the user needs to define the `flip_axis` parameter. It could be 1, 2, 3, or 'random'. For 'random', axis will be determined randomly. 
 
-#### Screenshot
-Original image
+#### Screenshots
+Original image </br>
 ![Sc 1](1.jpg)
-Flipped image
+Flipped image </br>
 ![Sc 1](2.jpg)
-rotated image
+rotated image </br>
 ![Sc 1](3.jpg)
 
-#### Reference
+#### References
 https://stanford.edu/~shervine/blog/keras-how-to-generate-data-on-the-fly
